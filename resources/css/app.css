@@ -1,0 +1,50 @@
+header {
+    background-color: rgb(68, 206, 21);
+
+    a {
+        text-decoration: none;
+        color: blueviolet;
+    }
+}
+
+li {
+    list-style: none;
+}
+
+
+
+
+
+nav {
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.filter {
+    gap: 1rem;
+}
+
+footer {
+
+    padding: 2rem;
+    color: blueviolet;
+
+
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+    }
+
+    img {
+        height: 50px;
+    }
+
+    hr {
+        border-width: 3px;
+    }
+}
